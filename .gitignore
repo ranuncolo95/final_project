@@ -1,0 +1,6 @@
+/.venv
+/image.py
+/persone.jpg
+/yolov8s.pt
+/__init__.py
+/__pycache__
