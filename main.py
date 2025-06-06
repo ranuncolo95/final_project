@@ -37,7 +37,6 @@ def services(request: Request,
 # SECONDA PARTE
 
 
-
 @app.get("/image", response_class=HTMLResponse)
 def image(request: Request):
     return templates.TemplateResponse(request=request, name="image.html")
